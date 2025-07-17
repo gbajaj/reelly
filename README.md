@@ -134,11 +134,13 @@ Taken from Google Pixel 9 Pro
 
 <p float="left">
 
-<img width="300"  alt="Screenshot_20250717_075816" src="https://github.com/user-attachments/assets/52b13192-e8d4-4784-bdd9-85362fccb099" />
+
+<img width="300"   alt="Screenshot_20250717_085649" src="https://github.com/user-attachments/assets/312802ca-cf88-4243-918d-1161ad1a4e1a" />
 
 
-<img width="300"  alt="Screenshot_20250717_075840" src="https://github.com/user-attachments/assets/869711ab-6f29-4b25-9ac1-3f86f2592a21" />
-<img width="300"   alt="Screenshot_20250717_084305" src="https://github.com/user-attachments/assets/7b868919-4d2c-4a16-b8dd-e3bb8a9b3d6b" />
+<img width="300"   alt="Screenshot_20250717_085659" src="https://github.com/user-attachments/assets/600d1978-6c79-49e5-aac4-959db9c69a56" />
+
+<img width="300"   alt="Screenshot_20250717_085710" src="https://github.com/user-attachments/assets/518f5c92-6ac5-4c0c-9c86-9ebac875a21b" />
 
 </p>
 
