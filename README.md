@@ -1,6 +1,6 @@
 
 
-# 🚀 Reelly: Android Project Skeleton (Kotlin, Jetpack Compose, MVVM)
+# 🚀 Reelly: Android Project (Kotlin, Jetpack Compose, MVVM)
 
 ![MVVM Architecture](https://github.com/user-attachments/assets/f01ea363-b6ac-46e3-90f3-60915d08b05f)
 
@@ -13,7 +13,7 @@ This project sets up a modern Android stack using **Kotlin, Jetpack Compose, and
 
 ## 🛠️ Key Technologies & Architecture
 
-This skeleton project comes pre-configured with the following modern Android technologies and architectural choices:
+This project is follows the modern Android technologies and architectural choices:
 
 * **Kotlin:** The primary programming language for concise and expressive Android development.
 * **Jetpack Compose:** Google's modern toolkit for building native Android UI. The project provides basic UI composables for handling various data states.
@@ -42,15 +42,13 @@ The project is structured with clear separation of concerns, following best prac
 
 ## 🚦 Pre-configured UI States
 
-To accelerate your UI development, basic **Jetpack Compose UI components** are provided to handle common data fetching states. These components offer a starting point for:
+Basic **Jetpack Compose UI components** are provided to handle common data fetching states. These components offer a starting point for:
 
 * **Initial State:** What the screen looks like before any data is loaded.
 * **Loading State:** Showing a progress indicator while data is being fetched.
 * **Error State:** Displaying an error message if the network request fails.
 * **Success State:** Ready for you to implement the actual data display (e.g., your list of items).
 * **Retry State:** A mechanism to re-attempt data fetching after an error.
-
-These foundational UI elements mean you can jump straight into binding your fetched data to the UI.
 
 -----
 ## Detailed project stucture
