@@ -9,5 +9,6 @@ package com.gauravbajaj.reelly.navigation
  * @property route The unique route identifier for the screen.
  */
 sealed class Screen(val route: String) {
+    object Splash : Screen("splash")
     object Video : Screen("video")
 }
